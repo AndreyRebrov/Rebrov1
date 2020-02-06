@@ -21,4 +21,5 @@ public class dz1 {
         System.out.println("Значение тиипа char = " + c);
         System.out.println("Значение тиипа bookean = " + bool);
     }
+
 }

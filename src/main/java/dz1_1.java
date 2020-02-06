@@ -10,8 +10,4 @@ public class dz1_1 {
     }
 
 
-
-
-
-
 }
