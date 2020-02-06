@@ -1,6 +1,8 @@
 package lesson1.homeans;
 
+
 public class dz01_1 {
+
 
     //Создаем пустой проект в IntelliJ IDEA и прописываем метод main
     public static void main(String[] args) {
@@ -26,7 +28,6 @@ public class dz01_1 {
     }
 }
 
-
 public class dz1_1 {
     public static void main(String[] args) {
         //Написать метод вычисляющий выражение a * (b + (c / d)) и возвращающий результат,
@@ -35,10 +36,8 @@ public class dz1_1 {
         int e = a * (b + (c / d));
         System.out.println((float) e);
 
-
     }
 }
-
 
 import java.util.Scanner;
 
@@ -59,7 +58,6 @@ public class dz1_2 {
             System.out.println("false");
     }
 }
-
 
 
 import java.util.Scanner;
@@ -83,7 +81,6 @@ public class dz1_3 {
 
 
 
-
 import java.util.Scanner;
 
 public class dz1_4 {
@@ -102,11 +99,9 @@ public class dz1_4 {
     }
 }
 
-
 import java.util.Scanner;
 
 public class dz_5 {
-
 
     //Написать метод, которому в качестве параметра передается строка, обозначающая имя,
     // метод должен вывести в консоль сообщение «Привет, указанное_имя!»;
