@@ -1,13 +1,11 @@
 package lesson1.homeans;
 
 
-public class dz01_1 {
+public class dz1_1 {
 
 
-    //Создаем пустой проект в IntelliJ IDEA и прописываем метод main
+
     public static void main(String[] args) {
-
-
 
         //Создаём переменные всех пройденных типов данных, и инициализируем их значения
         byte b = 98; // -128 до 127
